@@ -55,7 +55,7 @@ Data was sourced using the [DLR-DW ISIC Downloader](https://gitlab.com/dlr-dw/is
 
 ```text
 /
-├── datasets/            # Zipped datasets (HAM10000, BCN, MSK)
+├── datasets/            # HAM10000, BCN, MSK
 ├── metadata/            # Contains .csv files of the datasets
 ├── lib/                 # Core logic scripts
 │   ├── configs.py       # Configuration and Path management
