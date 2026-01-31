@@ -1,0 +1,20 @@
+# --- Core ---
+torch
+torchvision
+
+# --- Data Handling & Tables ---
+pandas
+numpy
+scikit-learn
+
+# --- Image Processing ---
+Pillow
+opencv-python
+
+# --- Pretrained Models (ResNet implementation) ---
+timm
+
+# --- The Differential (Explainability/Visualization) ---
+grad-cam
+matplotlib
+seaborn

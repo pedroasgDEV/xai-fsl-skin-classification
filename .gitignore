@@ -1,0 +1,8 @@
+# Exclude all datasets and metadatas. The link to get them is in the README.
+datasets/
+metadata/
+
+# Remove all markdown and pdf files (Keep only README filesi)
+*.md
+!README.md
+*.pdf
