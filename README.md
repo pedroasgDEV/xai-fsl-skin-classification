@@ -68,7 +68,7 @@ Data was sourced using the [DLR-DW ISIC Downloader](https://gitlab.com/dlr-dw/is
 
 ```
 
-## ⚙️ Installation
+## Installation
 
 1. Clone this repository:
 ```bash
@@ -88,7 +88,7 @@ pip install -r lib/requirements.txt
 * Place the CSV metadata files into the `metadata/` folder.
 
 
-## 📚 References
+## References
 
 1. **Original Paper:** Chamarthi, R. et al. (2024). *Cross-domain few-shot learning for skin lesion classification*. Informatics in Medicine Unlocked. [Link](https://www.sciencedirect.com/science/article/pii/S2352914824000765)
 2. **Dataset Source:** DLR-DW ISIC Download. [GitLab](https://gitlab.com/dlr-dw/isic_download)
