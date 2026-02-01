@@ -6,3 +6,10 @@ metadata/
 *.md
 !README.md
 *.pdf
+
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# Python
+**/__pycache__/
